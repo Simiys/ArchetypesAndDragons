@@ -17,7 +17,7 @@ body {
   background-position: center top;
   background-repeat: no-repeat;
   width: 100vw;
-  height: 200vh;
+  height: calc(100vw * 1688 / 390.4);
   position: relative;
 }
 
@@ -165,7 +165,6 @@ h2 {
   flex-direction: row;
   gap: 10px;
   margin-top: -20px;
-  margin-bottom: 40px;
 }
 
 .header-text-2 {
