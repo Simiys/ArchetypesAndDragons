@@ -38,7 +38,7 @@ const ThreeCirclesLayoutBot = ({
       <div
         style={{
           position: "absolute",
-          bottom: "50%", // Расположение относительно контейнера
+          bottom: "44%", // Расположение относительно контейнера
           right: "55%",
           zIndex: 2,
         }}
@@ -54,8 +54,8 @@ const ThreeCirclesLayoutBot = ({
       <div
         style={{
           position: "absolute",
-          bottom: "45%",
-          left: "52%",
+          bottom: "50%",
+          left: "57%",
           Index: 1,
         }}
       >

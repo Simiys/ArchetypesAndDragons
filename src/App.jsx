@@ -292,14 +292,14 @@ function App() {
                         colors: ["#FEB298", "#FD7582"],
                       },
                       {
-                        size: 50,
-                        text: "Лидер",
-                        colors: ["#7E59FD", "#6641E1"],
-                      },
-                      {
                         size: 65,
                         text: "Новатор",
                         colors: ["#61F6EA", "#0EB1D7"],
+                      },
+                      {
+                        size: 50,
+                        text: "Лидер",
+                        colors: ["#7E59FD", "#6641E1"],
                       },
                     ]
               }
@@ -321,14 +321,14 @@ function App() {
                         colors: ["#FEB298", "#FD7582"],
                       },
                       {
-                        size: 50,
-                        text: "Лидер",
-                        colors: ["#7E59FD", "#6641E1"],
-                      },
-                      {
                         size: 65,
                         text: "Новатор",
                         colors: ["#61F6EA", "#0EB1D7"],
+                      },
+                      {
+                        size: 50,
+                        text: "Лидер",
+                        colors: ["#7E59FD", "#6641E1"],
                       },
                     ]
               }
@@ -350,14 +350,14 @@ function App() {
                         colors: ["#FEB298", "#FD7582"],
                       },
                       {
-                        size: 50,
-                        text: "Лидер",
-                        colors: ["#7E59FD", "#6641E1"],
-                      },
-                      {
                         size: 65,
                         text: "Новатор",
                         colors: ["#61F6EA", "#0EB1D7"],
+                      },
+                      {
+                        size: 50,
+                        text: "Лидер",
+                        colors: ["#7E59FD", "#6641E1"],
                       },
                     ]
               }
@@ -520,14 +520,14 @@ function App() {
                         colors: ["#BA0026", "#91002D"],
                       },
                       {
-                        size: 50,
-                        text: "Лидер",
-                        colors: ["#7300A9", "#6F00A0"],
-                      },
-                      {
                         size: 65,
                         text: "Новатор",
                         colors: ["#B25998", "#A41E64"],
+                      },
+                      {
+                        size: 50,
+                        text: "Лидер",
+                        colors: ["#7300A9", "#6F00A0"],
                       },
                     ]
               }
@@ -549,14 +549,14 @@ function App() {
                         colors: ["#BA0026", "#91002D"],
                       },
                       {
-                        size: 50,
-                        text: "Лидер",
-                        colors: ["#7300A9", "#6F00A0"],
-                      },
-                      {
                         size: 65,
                         text: "Новатор",
                         colors: ["#B25998", "#A41E64"],
+                      },
+                      {
+                        size: 50,
+                        text: "Лидер",
+                        colors: ["#7300A9", "#6F00A0"],
                       },
                     ]
               }
@@ -578,14 +578,14 @@ function App() {
                         colors: ["#BA0026", "#91002D"],
                       },
                       {
-                        size: 50,
-                        text: "Лидер",
-                        colors: ["#7300A9", "#6F00A0"],
-                      },
-                      {
                         size: 65,
                         text: "Новатор",
                         colors: ["#B25998", "#A41E64"],
+                      },
+                      {
+                        size: 50,
+                        text: "Лидер",
+                        colors: ["#7300A9", "#6F00A0"],
                       },
                     ]
               }
