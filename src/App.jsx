@@ -488,17 +488,17 @@ function App() {
                       {
                         size: 80,
                         text: "Визионер",
-                        colors: ["#FEB298", "#FD7582"],
+                        colors: ["#BA0026", "#91002D"],
                       },
                       {
                         size: 50,
                         text: "Лидер",
-                        colors: ["#7E59FD", "#6641E1"],
+                        colors: ["#7300A9", "#6F00A0"],
                       },
                       {
                         size: 65,
                         text: "Новатор",
-                        colors: ["#61F6EA", "#0EB1D7"],
+                        colors: ["#B25998", "#A41E64"],
                       },
                     ]
               }
@@ -517,17 +517,17 @@ function App() {
                       {
                         size: 80,
                         text: "Визионер",
-                        colors: ["#FEB298", "#FD7582"],
+                        colors: ["#BA0026", "#91002D"],
                       },
                       {
                         size: 50,
                         text: "Лидер",
-                        colors: ["#7E59FD", "#6641E1"],
+                        colors: ["#7300A9", "#6F00A0"],
                       },
                       {
                         size: 65,
                         text: "Новатор",
-                        colors: ["#61F6EA", "#0EB1D7"],
+                        colors: ["#B25998", "#A41E64"],
                       },
                     ]
               }
@@ -546,17 +546,17 @@ function App() {
                       {
                         size: 80,
                         text: "Визионер",
-                        colors: ["#FEB298", "#FD7582"],
+                        colors: ["#BA0026", "#91002D"],
                       },
                       {
                         size: 50,
                         text: "Лидер",
-                        colors: ["#7E59FD", "#6641E1"],
+                        colors: ["#7300A9", "#6F00A0"],
                       },
                       {
                         size: 65,
                         text: "Новатор",
-                        colors: ["#61F6EA", "#0EB1D7"],
+                        colors: ["#B25998", "#A41E64"],
                       },
                     ]
               }
@@ -575,17 +575,17 @@ function App() {
                       {
                         size: 80,
                         text: "Визионер",
-                        colors: ["#FEB298", "#FD7582"],
+                        colors: ["#BA0026", "#91002D"],
                       },
                       {
                         size: 50,
                         text: "Лидер",
-                        colors: ["#7E59FD", "#6641E1"],
+                        colors: ["#7300A9", "#6F00A0"],
                       },
                       {
                         size: 65,
                         text: "Новатор",
-                        colors: ["#61F6EA", "#0EB1D7"],
+                        colors: ["#B25998", "#A41E64"],
                       },
                     ]
               }
