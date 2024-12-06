@@ -364,7 +364,7 @@ function App() {
             />
           </div>
         </div>
-        <div id="footer" style={{ marginBottom: "11%" }}>
+        <div className="footer" id="botDevider">
           <div className="header-text-2">
             <h2 id="h-text-2">Ведущие силы</h2>
             <p id="text-2">
@@ -592,7 +592,7 @@ function App() {
             />
           </div>
         </div>
-        <div id="footer">
+        <div className="footer">
           <div className="header-text-2">
             <h2 id="h-text-2">Внутренние баги</h2>
             <p id="text-2">
