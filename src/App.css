@@ -121,10 +121,10 @@ h2 {
 }
 
 #mainCircles {
-  /* min-height: calc(100vw * 506.4 / 390.4); */
-  min-height: 30%;
-  padding-top: 10px;
+  height: calc(100vw * 506.4 / 390.4);
+  padding-top: calc(100vw * 10 / 390.4);
   position: relative;
+  margin-top: 15px;
 }
 
 #topC {
