@@ -190,9 +190,9 @@ function App() {
   };
 
   const getColorsDrag = (num) => {
-    if (num > 26) {
+    if (num > 10) {
       return ["#BA0026", "#91002D"];
-    } else if (num >= 20) {
+    } else if (num >= 6) {
       return ["#B25998", "#A41E64"];
     }
     return ["#7300A9", "#6F00A0"];
@@ -211,16 +211,15 @@ function App() {
     <div className="background-color">
       <div className="background">
         <div className="header-name">
-          {paramMap.get("name")}, предприниматель
+          {paramMap.get("name")}, {paramMap.get("desc")}
         </div>
         <div id="header">
           <div className="header-text">
             <h2 id="h-text-1">Результаты теста</h2>
             <p id="text-1">
-              Lorem Ipsum is simply dummy text of the Lorem Ipsum is simply
-              dummy text of the Lorem Ipsum is simply dummy text of the Lorem
-              Ipsum is simply dummy text of the Lorem Ipsum is simply dummy text
-              of the
+              Привет, Алексей! На этой картинке ты наглядно видишь, какие из
+              12-ти суперсил-архетипов доминируют, активны или подавлены у тебя
+              на текущий момент.
             </p>
           </div>
           <div id="exampleCircles">
@@ -368,10 +367,11 @@ function App() {
           <div className="header-text-2">
             <h2 id="h-text-2">Ведущие силы</h2>
             <p id="text-2">
-              Lorem Ipsum is simply dummy text of the Lorem Ipsum is simply
-              dummy text of the Lorem Ipsum is simply dummy text of the Lorem
-              Ipsum is simply dummy text of the Lorem Ipsum is simply dummy text
-              of the
+              Это твои общие баллы по четырем жизненным стратегиям — они
+              считаются как сумма трех архетипов внутри каждой стратегии. Обрати
+              внимание, какие стратегии у тебя лидируют и какие архетипы
+              занимают первых 4 места — на это можно делать ставку при выборе
+              сферы реализации и роли в ней.
             </p>
           </div>
           <div id="bars-1">
@@ -445,10 +445,10 @@ function App() {
               Мешающие убеждения, баги, привычки, ограничения
             </h2>
             <p id="text-1">
-              Lorem Ipsum is simply dummy text of the Lorem Ipsum is simply
-              dummy text of the Lorem Ipsum is simply dummy text of the Lorem
-              Ipsum is simply dummy text of the Lorem Ipsum is simply dummy text
-              of the
+              Выход на новый уровень жизни и реализации, большую финансовую цель
+              или любую другую лежит через дракона, которого придется приручить.
+              Дракон — это внутренняя мешающая тебе часть, оборотная сторона
+              силы или огромный заряд энергии, вытесненный в тень.
             </p>
           </div>
           <div id="exampleCircles">
@@ -596,10 +596,10 @@ function App() {
           <div className="header-text-2">
             <h2 id="h-text-2">Внутренние баги</h2>
             <p id="text-2">
-              Lorem Ipsum is simply dummy text of the Lorem Ipsum is simply
-              dummy text of the Lorem Ipsum is simply dummy text of the Lorem
-              Ipsum is simply dummy text of the Lorem Ipsum is simply dummy text
-              of the
+              Чем больше дракон, тем больше твой потенциал к росту и
+              положительным изменениям. Начни с самого доминирующего бага —
+              легализуй эту часть себя, приручи эту силу и используй талант себе
+              и окружающим во благо.
             </p>
           </div>
           {topDragon.length > 0 && (

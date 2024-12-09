@@ -65,7 +65,7 @@ const GradientCircle = ({
               maxWidth: "60px",
               margin: 0,
               color: "#fff",
-              fontSize: `${size / 6}px`,
+              fontSize: `${size / 7}px`,
               textAlign: "center",
               wordWrap: "break-word",
               overflowWrap: "break-word",
