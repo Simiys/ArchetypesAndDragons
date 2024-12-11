@@ -217,9 +217,9 @@ function App() {
           <div className="header-text">
             <h2 id="h-text-1">Результаты теста</h2>
             <p id="text-1">
-              Привет, Алексей! На этой картинке ты наглядно видишь, какие из
-              12-ти суперсил-архетипов доминируют, активны или подавлены у тебя
-              на текущий момент.
+              Привет, {paramMap.get("name")}! На этой картинке ты наглядно
+              видишь, какие из 12-ти суперсил-архетипов доминируют, активны или
+              подавлены у тебя на текущий момент.
             </p>
           </div>
           <div id="exampleCircles">
@@ -455,23 +455,23 @@ function App() {
             <GradientCircle
               size={45}
               colors={["#BA0026", "#91002D"]}
-              text="26-30"
+              text="11-15"
             />
             <GradientCircle
               size={35}
               colors={["#B25998", "#A41E64"]}
-              text="20-25"
+              text="6-11"
             />
             <GradientCircle
               size={30}
               colors={["#7300A9", "#650086"]}
-              text="<20"
+              text="<6"
             />
           </div>
           <div id="exCirclesText">
             <p id="ex-text-1">Доминирующие</p>
             <p id="ex-text-2">Активные</p>
-            <p id="ex-text-3">Подавленные</p>
+            <p id="ex-text-3">Прирученные</p>
           </div>
         </div>
         <div id="mainCircles">
