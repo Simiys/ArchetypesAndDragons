@@ -27,7 +27,7 @@ function App() {
     dragon_tyrant: "Тиран",
     dragon_opportunist: "Приспособленец",
     dragon_impostor: "Самозванец",
-    dragon_shy: "Жертва",
+    dragon_sad: "Жертва",
     dragon_hater: "Хейтер",
     dragon_narcissist: "Нарцисс",
     dragon_trickster: "Трикстер",
@@ -127,7 +127,7 @@ function App() {
 
       list = [];
       list.push({ name: "Хейтер", val: paramMap.get("dragon_hater") - 0 });
-      list.push({ name: "Жертва", val: paramMap.get("dragon_shy") - 0 });
+      list.push({ name: "Жертва", val: paramMap.get("dragon_sad") - 0 });
       list.push({
         name: "Манипулятор",
         val: paramMap.get("dragon_manipulator") - 0,
